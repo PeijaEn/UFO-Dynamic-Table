@@ -7,13 +7,13 @@ The client reached out to me and asked if it was possible to create a dynamic we
 3. save previous filter searches to console.log
 
 ### Results
-1. The first step is to locate the filter input on the bottom left
+The first step is to locate the filter input on the bottom left
 ![image](https://github.com/PeijaEn/UFOs/blob/main/static/images/mod%2011%20search.png?raw=true)
 
-2. The next step is to fill in your data for what you want to find
+The next step is to fill in your data for what you want to find
 ![image]()
 
-3. Then you get the filtered result
+Then you get the filtered result
 ![image]()
 
 ### Summary
