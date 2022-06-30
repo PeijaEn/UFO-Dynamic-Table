@@ -7,7 +7,8 @@ The client reached out to me and asked if it was possible to create a dynamic we
 3. save previous filter searches to console.log
 
 ### Results
-
+1. The first step is to locate the filter input on the bottom left
+[! image][]
 
 ### Summary
 One major drawback is that the input fields only accept exact results (like only lowercases and no misplaced spaces). This could be solved with some dedicated work on a function that takes a user input and autolowercases it and removes white space.
