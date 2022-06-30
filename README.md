@@ -11,7 +11,7 @@ The first step is to locate the filter input on the bottom left
 ![image](https://github.com/PeijaEn/UFOs/blob/main/static/images/mod%2011%20search.png?raw=true)
 
 The next step is to fill in your data for what you want to find                                                                                      
-![image]()
+![image](https://github.com/PeijaEn/UFOs/blob/main/static/images/mod%2011%20search%20complete.png?raw=true)
 
 Then you get the filtered result                                                                                             
 ![image]()
