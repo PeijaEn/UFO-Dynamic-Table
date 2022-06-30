@@ -14,7 +14,7 @@ The next step is to fill in your data for what you want to find
 ![image](https://github.com/PeijaEn/UFOs/blob/main/static/images/mod%2011%20search%20complete.png?raw=true)
 
 Then you get the filtered result                                                                                             
-![image]()
+![image](https://github.com/PeijaEn/UFOs/blob/main/static/images/filtered%20search.png?raw=true)
 
 ### Summary
 One major drawback is that the input fields only accept exact results (like only lowercases and no misplaced spaces). This could be solved with some dedicated work on a function that takes a user input and autolowercases it and removes white space.
