@@ -1,10 +1,12 @@
 # Dyanmic Tables with JavaScript & HTML
 
 ### Project Overview
-The client reached out to me and asked if it was possible to create a dynamic webpage dedicated to UFO Sightings. I was provided with a big database of 'UFO' sightings and was given the following task(s):
-1. Allow the user to input the filters they want
-2. filter by state, city, country, and shape
-3. save previous filter searches to console.log
+Tasked with creating a dynamic webpage utilizing data stored in a JavaScript array. To make the webpage fully dynamic, filters must be added to the webpage. This means the webpage can react to user-input. Then the dynamic webpage must be placed in a HTML file for easy viewing. The webpage is to be customized with Bootstrap. The page must be able to allow the user to interact with the visualizations. The webpage will be focusing on UFO sightings which is the data stored in the JavaScript Array.
+
+In short:
+- Allow the user to input the filters they want
+- filter by state, city, country, and shape
+- save previous filter searches to console.log
 
 ### Results
 The first step is to locate the filter input on the bottom left                                                                   
