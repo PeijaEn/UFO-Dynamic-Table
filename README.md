@@ -1,4 +1,4 @@
-# UFOs and Javascript
+# Dyanmic Tables with JavaScript & HTML
 
 ### Project Overview
 The client reached out to me and asked if it was possible to create a dynamic webpage dedicated to UFO Sightings. I was provided with a big database of 'UFO' sightings and was given the following task(s):
