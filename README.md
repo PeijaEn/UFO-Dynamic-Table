@@ -8,6 +8,13 @@ In short:
 - filter by state, city, country, and shape
 - save previous filter searches to console.log
 
+### Technologies Used
+- JavaScript
+ - ES6
+ - Dynamic Tables
+- HTML & CSS
+ - Bootstrap
+
 ### Results
 The first step is to locate the filter input on the bottom left                                                                   
 ![image](https://github.com/PeijaEn/UFOs/blob/main/UFOs/static/images/mod%2011%20search.png?raw=true)
