@@ -16,6 +16,12 @@ In short:
  - Bootstrap
 
 ### Results
+
+This was the finished result of the Dynamic Webpage - 
+![image](https://github.com/PeijaEn/UFO-Dynamic-table/blob/main/UFOs/static/images/Screen%20Shot%202022-12-14%20at%202.55.36%20PM.png?raw=true)
+
+##### How To Use The Page
+
 The first step is to locate the filter input on the bottom left                                                                   
 ![image](https://github.com/PeijaEn/UFOs/blob/main/UFOs/static/images/mod%2011%20search.png?raw=true)
 
